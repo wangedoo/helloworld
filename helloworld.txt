@@ -1,3 +1,4 @@
+/usr/bin/dev
 hello world……
 hello everyone!
 creating a new branch!
