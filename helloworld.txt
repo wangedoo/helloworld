@@ -1,4 +1,8 @@
+
 一以一以一以一以一i2hello world……
+/usr/bin/dev
+hello world……
+>>>>>>> 45e5d267f8131c48d102fc7574eb72d6a6043529
 hello everyone!
 creating a new branch!
 creating a new branch is quick AND simple
