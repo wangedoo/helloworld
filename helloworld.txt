@@ -1,2 +1,4 @@
 hello everyone!
 creating a new branch!
+creating a branch is quick & simple
+
